@@ -1,0 +1,5 @@
+/uploads/
+/script/vendor/
+/script/.env
+/.idea
+/script/node_modules/
